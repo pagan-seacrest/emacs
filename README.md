@@ -56,7 +56,7 @@
 > Ctrl + O  ---  open \
 > Ctrl + X O  ---  open and switch \
 > &  ---  open with \
-> m  ---  select
+> m  ---  select \
 > u  ---  unselect \
 > U  ---  unselect all \
 > \* s  ---  select all \
