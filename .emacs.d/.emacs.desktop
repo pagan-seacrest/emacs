@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Aug 25 00:36:34 2021
+;; Desktop file format version 208
+;; Emacs version 27.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24869 26210 814175 490000) (desktop . "208") "pagan@seacrest" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "DejaVu Sans Mono-12") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#DADADA") (background-color . "#171717") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (height . 35) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FAFAFA") (sticky) (environment) (modeline . t) (unsplittable) (frameset--id . "E345-7D03-DCB1-0735") (frameset--mini t . t) (display . ":0.0") (last-focus-update . t) (icon-name) (explicit-name) (width . 100) (left . 160) (top . 23)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 100) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 19) (min-pixel-width-safe . 20)) leaf (pixel-width . 1032) (pixel-height . 646) (total-width . 103) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "README.md" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 492) (start . 1)) (prev-buffers ("pagan" 849 2446) (".bash_logout" 1 63) (".emacs.d" 1 1444) ("*scratch*" 1 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("split" "M-l" "C-t" "line-nu"))
+(setq regexp-search-ring nil)
+(setq register-alist (list (list 82 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (lambda nil (set-marker mk nil (get-buffer " *temp*")))) mk)) '(48 . #("kbd \"M-;\") 'comment-dwim-2" 0 4 (fontified t) 4 9 (face font-lock-string-face fontified t) 9 26 (fontified t)))))
+(setq file-name-history '("~/" "~/.emacs.d/" "~/" "~/.emacs.d/" "~/" "~/.emacs.d/shortcuts.md" "~/Public/kekt/k2.js" "~/Public/kekt/k1/js" "~/Public/kekt/.." "~/Public/kekt/k/" "~/Public/kekt/" "~/Public/kekt/ll.js" "~/Public/kekt/ss.js" "~/Public/kekt/ket.el kek2.el kek3.el" "~/Public/kekt/" "~/Public/kekt/test.tar" "~/Public/kekt/test" "~/Public/kekt/test.txt" "~/.emacs.d/test/.txt" "~/.emacs.d/" "~/Public/kekt/l.js" "~/Public/kekt/k.js" "~/.emacs.d/" "~/Public/kekt/k.js" "~/Public/kekt/s" "~/Public/kekt" "~/" "~/.emacs.d/commands.md" "~/.emacs.d/" "~/Front-end/pe23-24-final-front/src/hoc/ShopLayout/" "~/" "~/.emacs.d/" "~/front-end/repositories/react-testing-library/src/" "~/front-end/repositories" "~/front-end" "~/" "~/Velocity/client/assets" "~/Velocity/client/hooks" "~/Velocity/client/Components/Footer" "~/Velocity/client/Components/Header" "~/Velocity/client/Components/Home" "~/Velocity/client/Components/Pages" "~/Velocity/client/Components/HOCs" "~/Velocity/client/Components" "~/Velocity/client/Page.js" "~/Velocity/client/" "~/fe_dev/" "~/fe_dev/impact/impact.js" "~/fe_dev/impact" "~/fe_dev/" "~/Downloads/" "~/" "~/.emacs.d/" "~/" "~/nice" "~/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/pagan/README.md"
+  "README.md"
+  'fundamental-mode
+  '(global-auto-revert-mode)
+  492
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24869 26207 585401 151000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "pagan"
+  'dired-mode
+  '(global-auto-revert-mode all-the-icons-dired-mode)
+  2446
+  '(nil nil)
+  t
+  '("/home/pagan/")
+  '((tab-width . 1) (buffer-display-time 24869 26202 487598 491000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/pagan/.bash_logout"
+  ".bash_logout"
+  'sh-mode
+  '(global-auto-revert-mode format-all-mode)
+  63
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24869 26201 215439 644000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(global-auto-revert-mode all-the-icons-dired-mode)
+  1444
+  '(nil nil)
+  t
+  '("/home/pagan/.emacs.d/")
+  '((tab-width . 1) (buffer-display-time 24869 22861 591700 811000))
+  '((mark-ring nil)))
+

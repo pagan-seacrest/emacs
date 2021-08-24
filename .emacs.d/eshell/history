@@ -1,0 +1,45 @@
+ls
+cd Public/velocity/
+git branch
+mc
+ls
+~
+mc
+renger
+ls
+ranger
+git checkout lesson_2
+git checkout lesson_02
+ls
+ls
+ranger
+ls
+git checkout lesson_03
+git checkout lesson_03
+git stash
+git checkout lesson_03
+git checkout lesson_04
+git checkout lesson_05
+git checkout lesson_04
+git checkout lesson_03
+git checkout lesson_04
+ls
+git checkout lesson_07
+ls
+ls
+touch s.js
+ls
+touch s1.js
+ls
+ls
+pwd
+clear
+ls
+ls
+ls
+cd ~
+git add README.md
+git commit -m "md"
+git push
+git fetch
+	git push

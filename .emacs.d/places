@@ -1,0 +1,81 @@
+;;; -*- coding: utf-8 -*-
+(("/home/pagan/.emacs.d/"
+  (dired-filename . "/home/pagan/.emacs.d/tao-theme.el"))
+ ("/home/pagan/.bash_logout" . 63)
+ ("/home/pagan/"
+  (dired-filename . "/home/pagan/README.md"))
+ ("/home/pagan/README.md" . 492)
+ ("/home/pagan/.emacs.d/elpa/dired-quick-sort-20201221.403/dired-quick-sort-autoloads.el" . 1770)
+ ("/home/pagan/.emacs.d/elpa/hydra-20201115.1055/hydra-autoloads.el" . 2946)
+ ("/home/pagan/.emacs.d/elpa/lv-20200507.1518/lv-autoloads.el" . 374)
+ ("/home/pagan/Front-end/pe23-24-final-front/src/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front/src/App.jsx"))
+ ("/home/pagan/Front-end/pe23-24-final-front/src/App.jsx" . 916)
+ ("/home/pagan/Front-end/pe23-24-final-front/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front/src"))
+ ("/home/pagan/Front-end/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front"))
+ ("/home/pagan/.emacs.d/keymap.el" . 3753)
+ ("/home/pagan/.emacs" . 9475)
+ ("/home/pagan/.emacs.d/tao-yin-theme.el" . 1549)
+ ("/home/pagan/.emacs.d/elpa/comment-dwim-2-20210101.1820/comment-dwim-2-autoloads.el" . 1329)
+ ("/home/pagan/.emacs.d/heroku-theme.el" . 2944)
+ ("/home/pagan/.emacs.d/elpa/"
+  (dired-filename . "/home/pagan/.emacs.d/elpa/ace-jump-mode-20140616.815"))
+ ("/home/pagan/Front-end/pe23-24-final-front/src/store/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front/src/store/store.js"))
+ ("/home/pagan/Front-end/pe23-24-final-front/src/store/store.js" . 18)
+ ("/home/pagan/Public/"
+  (dired-filename . "/home/pagan/Public/.."))
+ ("/home/pagan/Front-end/pe23-24-final-front/src/hoc/ShopLayout/ShopLayout.jsx" . 347)
+ ("/home/pagan/Front-end/pe23-24-final-front/src/hoc/ShopLayout/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front/src/hoc/ShopLayout/ShopLayout.jsx"))
+ ("/home/pagan/Front-end/pe23-24-final-front/src/hoc/"
+  (dired-filename . "/home/pagan/Front-end/pe23-24-final-front/src/hoc/ShopLayout"))
+ ("/home/pagan/Downloads/ventoy-1.0.50/"
+  (dired-filename . "/home/pagan/Downloads/ventoy-1.0.50/README"))
+ ("/home/pagan/Downloads/ventoy-1.0.50/README" . 681)
+ ("/home/pagan/Downloads/"
+  (dired-filename . "/home/pagan/Downloads/ventoy-1.0.50"))
+ ("/home/pagan/.vscode/"
+  (dired-filename . "/home/pagan/.vscode/extensions"))
+ ("/home/pagan/.vscode/extensions/"
+  (dired-filename . "/home/pagan/.vscode/extensions/shirayuki.verdandi-alter-customized-0.4.21"))
+ ("/home/pagan/.emacs.d/elpa/eshell-toggle-20210407.2039/eshell-toggle-autoloads.el" . 878)
+ ("/home/pagan/.emacs.d/elpa/eshell-git-prompt-20200109.2250/eshell-git-prompt-autoloads.el" . 775)
+ ("/home/pagan/Velocity/client/"
+  (dired-filename . "/home/pagan/Velocity/client/.git"))
+ ("/home/pagan/.emacs.d/elpa/format-all-20210708.1728/format-all-autoloads.el" . 3026)
+ ("/home/pagan/.emacs.d/elpa/inheritenv-20210204.354/inheritenv-autoloads.el" . 819)
+ ("/home/pagan/.emacs.d/elpa/language-id-20210708.1719/language-id-autoloads.el" . 428)
+ ("/home/"
+  (dired-filename . "/home/pagan"))
+ ("/home/pagan/.emacs.d/elpa/doom-modeline-20210706.604/doom-modeline-autoloads.el" . 3825)
+ ("/home/pagan/.emacs.d/elpa/shrink-path-20190208.1335/shrink-path-autoloads.el" . 428)
+ ("/home/pagan/.emacs.d/elpa/f-20210624.1103/f-autoloads.el" . 368)
+ ("/home/pagan/.emacs.d/elpa/s-20210616.619/s-autoloads.el" . 368)
+ ("/home/pagan/.emacs.d/elpa/linum-relative-20180124.1047/linum-relative-autoloads.el" . 1762)
+ ("/"
+  (dired-filename . "/home"))
+ ("/home/pagan/.emacs.d/elpa/ace-mc-20190206.749/ace-mc-autoloads.el" . 1746)
+ ("/home/pagan/.emacs.d/elpa/ace-jump-mode-20140616.815/ace-jump-mode-autoloads.el" . 1700)
+ ("/home/pagan/.emacs.d/elpa/multiple-cursors-20210323.1128/multiple-cursors-autoloads.el" . 11317)
+ ("/home/pagan/.emacs.d/elpa/dash-20210708.2009/dash-autoloads.el" . 2178)
+ ("/home/pagan/Pictures/"
+  (dired-filename . "/home/pagan/Pictures/Screenshot from 2021-06-29 14-34-24.png"))
+ ("/home/pagan/.emacs.d/elpa/all-the-icons-ibuffer-20210325.512/all-the-icons-ibuffer-autoloads.el" . 1099)
+ ("/home/pagan/Downloads/Telegram Desktop/"
+  (dired-filename . "/home/pagan/Downloads/Telegram Desktop/2018-05-02-19-29-47.enctxt"))
+ ("/home/pagan/Documents/"
+  (dired-filename . "/home/pagan/Documents/.."))
+ ("/home/pagan/.emacs.d/elpa/dired-single-20200824.708/dired-single-autoloads.el" . 2543)
+ ("/home/pagan/Desktop/"
+  (dired-filename . "/home/pagan/Desktop/s.js"))
+ ("/home/pagan/.emacs.d/elpa/linum-off-20160217.2137/linum-off-autoloads.el" . 412)
+ ("/home/pagan/.emacs.d/elpa/all-the-icons-dired-20210614.1350/all-the-icons-dired-autoloads.el" . 635)
+ ("/home/pagan/.emacs.d/elpa/all-the-icons-20210703.2203/all-the-icons-autoloads.el" . 2243)
+ ("/home/pagan/.emacs.d/elpa/dired-du-0.5.2/dired-du-autoloads.el" . 2192)
+ ("/home/pagan/.bashrc" . 3293)
+ ("/home/pagan/Templates/"
+  (dired-filename . "/home/pagan/Templates/react-2"))
+ ("/home/pagan/.emacs.d/common.lisp" . 313))

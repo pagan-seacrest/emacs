@@ -1,0 +1,18 @@
+; (defun random-print (n m)
+;  (dotimes (i n)
+;   (format t "~r~%" (random m))))
+;(random-print 4 20)
+;(format t "~r" 1)
+(defun cnd (a b)
+  (if (> (* (random 5) a) (* (random 5) b))
+      (print "a bigger")
+    (print "random bigger")))
+
+;(cnd 5 5)
+    
+(print "=======================")
+;((setf x 6)
+;(print x))
+(setf  num (read))
+(print num)
+(print (type-of num))
