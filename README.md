@@ -22,12 +22,12 @@
 > Alt + W  ---  switch window \
 > Alt + A  ---  switch buffer \
 > Alt + Q  ---  close window with buffers \
-> Ctrl + N  ---  new file in new buffer \
+> Ctrl + N  ---  new file in new buffer
 
 > Alt + LEFT  ---  resize splited window left \
 > Alt + RIGHT  ---  resize splited window right \
 > Shift + Ctrl + UP  ---  resize splited window up \
-> Shift + Ctrl + DOWN  ---  resize splited window down \
+> Shift + Ctrl + DOWN  ---  resize splited window down
 
 > Shift + Ctrl + ENTER  ---  revesre return \
 > Ctrl + X UP  ---  to beginning  \
@@ -35,7 +35,7 @@
 > Alt + M  ---  to beginning of line \
 > Ctrl + UP  ---  scroll up \
 > Ctrl + DOWN  ---  scroll down \
-> Alt + P  ---  multiple cursor \
+> Alt + P  ---  multiple cursor
 
 > Alt + UP  ---  move line up \
 > Alt + DOWN  ---  move line down \
@@ -45,18 +45,18 @@
 > Crtl + L  ---  select line \
 > Crtl + K  --- cut line right \
 > Crtl + O  --- cut line left \
-> Ctrl + X L  ---  cut line \
+> Ctrl + X L  ---  cut line 
 
 > Alt + L  ---  to lowercase \
 > Alt + U  ---  to uppercase \
-> Alt + C  ---  to titlecase \
+> Alt + C  ---  to titlecase
 
 ### DIRED
 > AlT + D  ---  open dired \
 > Ctrl + O  ---  open \
 > Ctrl + X O  ---  open and switch \
 > &  ---  open with \
-> m  ---  sele> ct
+> m  ---  select
 > u  ---  unselect \
 > U  ---  unselect all \
 > \* s  ---  select all \
@@ -70,7 +70,7 @@
 > R  ---  rename/move \
 > D  ---  delete \
 > d  ---  select to delete \
-> C  ---  copy \
+> C  ---  copy
 
 ### TERMINAL
-> Ctrl + E   open and close Eshell \
+> Ctrl + E   open and close Eshell
