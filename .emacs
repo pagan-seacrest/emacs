@@ -106,8 +106,66 @@
     (linum-mode 1)))
 
 (provide 'linum-off)
+;; ======  TABS =======================================================================================================
+
+(require 'centaur-tabs)
+(centaur-tabs-mode t)
+(global-set-key (kbd "C-<`>")  'centaur-tabs-backward)
+(global-set-key (kbd "C-<tab>") 'centaur-tabs-forward)
+(setq centaur-tabs-style "alternate")
+(setq centaur-tabs-height 24)
+(setq centaur-tabs-set-bar 'over)
+(setq centaur-tabs-gray-out-icons 'buffer)
+(setq centaur-tabs-set-icons t)
+(setq centaur-tabs-plain-icons t)
+(setq centaur-tabs-label-fixed-length 300)
+(global-set-key (kbd "C-t") 'centaur-tabs--create-new-tab)
 
 
+
+    (defun centaur-tabs-buffer-groups ()
+      "`centaur-tabs-buffer-groups' control buffers' group rules.
+
+    Group centaur-tabs with mode if buffer is derived from `eshell-mode' `emacs-lisp-mode' `dired-mode' `org-mode' `magit-mode'.
+    All buffer name start with * will group to \"Emacs\".
+    Other buffer group by `centaur-tabs-get-group-name' with project name."
+      (list
+	(cond
+	 ((or (string-equal "*" (substring (buffer-name) 0 1))
+	      (memq major-mode '(magit-process-mode
+				 magit-status-mode
+				 magit-diff-mode
+				 magit-log-mode
+				 magit-file-mode
+				 magit-blob-mode
+				 magit-blame-mode
+				 )))
+	  "Emacs")
+	 ((derived-mode-p 'prog-mode)
+	  "Editing")
+	 ((derived-mode-p 'dired-mode)
+	  "Dired")
+	 ((memq major-mode '(helpful-mode
+			     help-mode))
+	  "Help")
+	 ((memq major-mode '(org-mode
+			     org-agenda-clockreport-mode
+			     org-src-mode
+			     org-agenda-mode
+			     org-beamer-mode
+			     org-indent-mode
+			     org-bullets-mode
+			     org-cdlatex-mode
+			     org-agenda-log-mode
+			     diary-mode))
+	  "OrgMode")
+	 (t
+	  (centaur-tabs-get-group-name (current-buffer))))))
+	  
+	 
+
+
+;; =============================================================================================================
 ;; ======
 
 (defun my-dired-mode-setup ()     "show less information in dired buffers"   (dired-hide-details-mode 1)) (add-hook 'dired-mode-hook 'my-dired-mode-setup)
@@ -239,7 +297,7 @@ selects backward.)"
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(dired-quick-sort comment-dwim-2 all-the-icons-ivy eshell-toggle eshell-git-prompt format-all doom-modeline linum-relative ace-mc all-the-icons-ibuffer dired-single linum-off all-the-icons-dired dired-du persistent-soft ergoemacs-mode)))
+   '(centaur-tabs emmet-mode dired-quick-sort comment-dwim-2 all-the-icons-ivy eshell-toggle eshell-git-prompt format-all doom-modeline linum-relative ace-mc all-the-icons-ibuffer dired-single linum-off all-the-icons-dired dired-du persistent-soft ergoemacs-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

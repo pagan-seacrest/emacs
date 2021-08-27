@@ -1,10 +1,36 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/pagan/.emacs.d/"
-  (dired-filename . "/home/pagan/.emacs.d/tao-theme.el"))
- ("/home/pagan/.bash_logout" . 63)
+(("/home/pagan/gulpfile.js" . 64)
+ ("/home/pagan/afterflow/packages/gulp_setup/"
+  (dired-filename . "/home/pagan/afterflow/packages/gulp_setup/main.js"))
+ ("/home/pagan/Git/"
+  (dired-filename . "/home/pagan/Git/.emacs"))
+ ("/home/pagan/Git/.emacs" . 391)
+ ("/home/pagan/Git/README.md" . 429)
  ("/home/pagan/"
-  (dired-filename . "/home/pagan/README.md"))
- ("/home/pagan/README.md" . 492)
+  (dired-filename . "/home/pagan/Git"))
+ ("/home/pagan/afterflow/packages/gulp_setup/main.js" . 39)
+ ("/home/pagan/afterflow/packages/gulp_setup/package.json" . 281)
+ ("/home/pagan/afterflow/packages/gulp_setup/guplfile.js" . 183)
+ ("/home/pagan/afterflow/packages/"
+  (dired-filename . "/home/pagan/afterflow/packages/gulp_setup"))
+ ("/home/pagan/afterflow/"
+  (dired-filename . "/home/pagan/afterflow/packages"))
+ ("/home/pagan/.bash_logout" . 63)
+ ("/home/pagan/Documents/"
+  (dired-filename . "/home/pagan/Documents/answers.docx"))
+ ("/home/pagan/Downloads/"
+  (dired-filename . "/home/pagan/Downloads/gulp"))
+ ("/home/pagan/Downloads/gulp/"
+  (dired-filename . "/home/pagan/Downloads/gulp/gulpfile.js"))
+ ("/home/pagan/Downloads/gulp/gulpfile.js" . 759)
+ ("/home/pagan/afterflow/packages/NOR/"
+  (dired-filename . "/home/pagan/afterflow/packages/NOR/nor-dev-vite"))
+ ("/home/pagan/afterflow/packages/NOR/nor-dev-vite/"
+  (dired-filename . "/home/pagan/afterflow/packages/NOR/nor-dev-vite/favicon.svg"))
+ ("/home/pagan/afterflow/packages/NOR/nor-dev-vite/index.html" . 284)
+ ("/home/pagan/.emacs" . 9562)
+ ("/home/pagan/.emacs.d/"
+  (dired-filename . "/home/pagan/.emacs.d/tao-theme.el"))
  ("/home/pagan/.emacs.d/elpa/dired-quick-sort-20201221.403/dired-quick-sort-autoloads.el" . 1770)
  ("/home/pagan/.emacs.d/elpa/hydra-20201115.1055/hydra-autoloads.el" . 2946)
  ("/home/pagan/.emacs.d/elpa/lv-20200507.1518/lv-autoloads.el" . 374)
@@ -16,7 +42,6 @@
  ("/home/pagan/Front-end/"
   (dired-filename . "/home/pagan/Front-end/pe23-24-final-front"))
  ("/home/pagan/.emacs.d/keymap.el" . 3753)
- ("/home/pagan/.emacs" . 9475)
  ("/home/pagan/.emacs.d/tao-yin-theme.el" . 1549)
  ("/home/pagan/.emacs.d/elpa/comment-dwim-2-20210101.1820/comment-dwim-2-autoloads.el" . 1329)
  ("/home/pagan/.emacs.d/heroku-theme.el" . 2944)
@@ -35,8 +60,6 @@
  ("/home/pagan/Downloads/ventoy-1.0.50/"
   (dired-filename . "/home/pagan/Downloads/ventoy-1.0.50/README"))
  ("/home/pagan/Downloads/ventoy-1.0.50/README" . 681)
- ("/home/pagan/Downloads/"
-  (dired-filename . "/home/pagan/Downloads/ventoy-1.0.50"))
  ("/home/pagan/.vscode/"
   (dired-filename . "/home/pagan/.vscode/extensions"))
  ("/home/pagan/.vscode/extensions/"
@@ -66,8 +89,6 @@
  ("/home/pagan/.emacs.d/elpa/all-the-icons-ibuffer-20210325.512/all-the-icons-ibuffer-autoloads.el" . 1099)
  ("/home/pagan/Downloads/Telegram Desktop/"
   (dired-filename . "/home/pagan/Downloads/Telegram Desktop/2018-05-02-19-29-47.enctxt"))
- ("/home/pagan/Documents/"
-  (dired-filename . "/home/pagan/Documents/.."))
  ("/home/pagan/.emacs.d/elpa/dired-single-20200824.708/dired-single-autoloads.el" . 2543)
  ("/home/pagan/Desktop/"
   (dired-filename . "/home/pagan/Desktop/s.js"))

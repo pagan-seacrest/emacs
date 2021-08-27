@@ -1,12 +1,13 @@
 (global-set-key [(control down)] 'gcm-scroll-down)
 (global-set-key [(control up)]   'gcm-scroll-up) ; static scroll
-(global-set-key (kbd "C-x w") 'delete-other-windows)
+(global-set-key (kbd "C-x C-w") 'delete-other-windows)
+(global-set-key (kbd "C-x w") 'delete-window)
 (global-set-key (kbd "M-n w") 'split-window-right)
 (global-set-key (kbd "M-n C-w") 'split-window-below)
 (global-set-key (kbd "M-b") 'buffer-menu) ; buffers list
-(global-set-key (kbd "M-q") 'kill-buffer-and-window) ; kill buffer and its window
+(global-set-key (kbd "C-w") 'kill-buffer-and-window) ; kill buffer and its window
 (global-set-key (kbd "M-a") 'mode-line-other-buffer) ; switch buffer
-(global-set-key (kbd "C-w") 'kill-this-buffer) ; close current buffer
+(global-set-key (kbd "M-q") 'kill-this-buffer) ; close current buffer
 (global-set-key (kbd "M-d") 'dired)
 (global-set-key (kbd "C-a") 'mark-whole-buffer)
 (global-set-key (kbd "<escape>") 'keyboard-quit)
@@ -19,7 +20,8 @@
 (global-set-key (kbd "M-n d") 'dired-create-directory)
 (global-set-key (kbd "M-n f") 'dired-create-file)
 (global-set-key (kbd "C-n") 'switch-to-buffer)
-
+(global-set-key (kbd "C-x a s") 'write-file)
+(global-set-key (kbd "M-n t") 'centaur-tabs--create-new-tab)
 
 (defun insert-and-indent-line-above ()
   (interactive)
