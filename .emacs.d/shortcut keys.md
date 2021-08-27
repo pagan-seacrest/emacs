@@ -11,11 +11,9 @@
 > Ctrl + Q  ---  quit \
 > Ctrl + F  ---  search \
 > Ctrl + X S  ---  save all \
-> Ctrl + X A S  ---  save file as \
 > Al + ;  ---  comment line \
 > Ctrl + X Ctrl + J --- jump dired \
 > Alt + ENTER  ---  jump dired other window \
-> Ctrl + Shift + S  ---  save all buffers \
 > Alt + B  ---  show all buffers \
 > Alt + N W  ---  split window vertically  \
 > Alt + N Ctrl + W  ---  split window horizontally \

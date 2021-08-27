@@ -1,13 +1,12 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/pagan/gulpfile.js" . 64)
+(("/home/pagan/Git/README.md" . 227)
  ("/home/pagan/afterflow/packages/gulp_setup/"
   (dired-filename . "/home/pagan/afterflow/packages/gulp_setup/main.js"))
+ ("/home/pagan/" . 2790)
  ("/home/pagan/Git/"
   (dired-filename . "/home/pagan/Git/.emacs"))
- ("/home/pagan/Git/.emacs" . 391)
- ("/home/pagan/Git/README.md" . 429)
- ("/home/pagan/"
-  (dired-filename . "/home/pagan/Git"))
+ ("/home/pagan/gulpfile.js" . 106)
+ ("/home/pagan/Git/.emacs" . 390)
  ("/home/pagan/afterflow/packages/gulp_setup/main.js" . 39)
  ("/home/pagan/afterflow/packages/gulp_setup/package.json" . 281)
  ("/home/pagan/afterflow/packages/gulp_setup/guplfile.js" . 183)

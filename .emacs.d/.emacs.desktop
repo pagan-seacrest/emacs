@@ -2,18 +2,18 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sat Aug 28 02:09:57 2021
+;; Created Sat Aug 28 02:27:57 2021
 ;; Desktop file format version 208
 ;; Emacs version 27.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (24873 28869 110929 846000) (desktop . "208") "pagan@seacrest" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "DejaVu Sans Mono-12") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#DADADA") (background-color . "#171717") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (height . 38) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FAFAFA") (sticky) (environment) (powerline-cache) (last-focus-update . t) (modeline . t) (unsplittable) (frameset--id . "E345-7D03-DCB1-0735") (frameset--mini t . t) (display . ":0.0") (icon-name) (explicit-name) (width . 133) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 100) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 19) (min-pixel-width-safe . 20)) leaf (pixel-width . 1366) (pixel-height . 721) (total-width . 137) (total-height . 38) (normal-height . 1.0) (normal-width . 1.0) (buffer "README.md" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 429) (start . 1)) (prev-buffers ("README.md" 1 429))))])
+(setq desktop-saved-frameset [frameset 1 (24873 29949 312529 544000) (desktop . "208") "pagan@seacrest" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "DejaVu Sans Mono-12") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#DADADA") (background-color . "#171717") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (height . 38) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FAFAFA") (sticky) (environment) (powerline-cache) (last-focus-update . t) (modeline . t) (unsplittable) (frameset--id . "E345-7D03-DCB1-0735") (frameset--mini t . t) (display . ":0.0") (icon-name) (explicit-name) (width . 133) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 100) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 19) (min-pixel-width-safe . 20)) leaf (pixel-width . 1366) (pixel-height . 721) (total-width . 137) (total-height . 37) (normal-height . 1.0) (normal-width . 1.0) (buffer "README.md" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 2 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 227) (start . 1)) (prev-buffers ("README.md" 1 227) ("*scratch*" 1 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring '("split" "M-l" "C-t" "line-nu"))
 (setq regexp-search-ring nil)
-(setq register-alist (list (list 82 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (lambda nil (set-marker mk nil (get-buffer " *temp*")))) mk)) '(48 . #(";; ======== EMMET ==========\n(load-file \"~/emacs.d/emmet-mode/emmet-mode.el\")\n;; (require 'zencoding-mode)\n" 0 3 (face font-lock-comment-delimiter-face fontified t) 3 29 (face font-lock-comment-face fontified t) 29 40 (fontified t) 40 76 (face font-lock-string-face fontified t) 76 78 (fontified t) 78 81 (face font-lock-comment-delimiter-face fontified t) 81 107 (face font-lock-comment-face fontified t)))))
+(setq register-alist (list (list 82 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (lambda nil (set-marker mk nil (get-buffer " *temp*")))) mk)) '(48 . "Ctrl + Shift + S  ---  save all buffers \\")))
 (setq file-name-history '("~/Git/" "~/" "~/.emacs.d/" "~/" "~/.emacs.d/" "~/" "~/.emacs.d/shortcuts.md" "~/Public/kekt/k2.js" "~/Public/kekt/k1/js" "~/Public/kekt/.." "~/Public/kekt/k/" "~/Public/kekt/" "~/Public/kekt/ll.js" "~/Public/kekt/ss.js" "~/Public/kekt/ket.el kek2.el kek3.el" "~/Public/kekt/" "~/Public/kekt/test.tar" "~/Public/kekt/test" "~/Public/kekt/test.txt" "~/.emacs.d/test/.txt" "~/.emacs.d/" "~/Public/kekt/l.js" "~/Public/kekt/k.js" "~/.emacs.d/" "~/Public/kekt/k.js" "~/Public/kekt/s" "~/Public/kekt" "~/" "~/.emacs.d/commands.md" "~/.emacs.d/" "~/Front-end/pe23-24-final-front/src/hoc/ShopLayout/" "~/" "~/.emacs.d/" "~/front-end/repositories/react-testing-library/src/" "~/front-end/repositories" "~/front-end" "~/" "~/Velocity/client/assets" "~/Velocity/client/hooks" "~/Velocity/client/Components/Footer" "~/Velocity/client/Components/Header" "~/Velocity/client/Components/Home" "~/Velocity/client/Components/Pages" "~/Velocity/client/Components/HOCs" "~/Velocity/client/Components" "~/Velocity/client/Page.js" "~/Velocity/client/" "~/fe_dev/" "~/fe_dev/impact/impact.js" "~/fe_dev/impact" "~/fe_dev/" "~/Downloads/" "~/" "~/.emacs.d/" "~/" "~/nice" "~/"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
@@ -22,58 +22,10 @@
   "README.md"
   'fundamental-mode
   '(global-auto-revert-mode)
-  429
-  '(858 nil)
+  227
+  '(457 nil)
   nil
   nil
-  '((buffer-display-time 24873 28770 127058 394000) (buffer-file-coding-system . undecided-unix))
-  '((mark-ring (929 344))))
-
-(desktop-create-buffer 208
-  "/home/pagan/Git/.emacs"
-  ".emacs"
-  'emacs-lisp-mode
-  '(eldoc-mode global-auto-revert-mode format-all-mode)
-  391
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time 24873 28169 911778 140000) (buffer-file-coding-system . undecided-unix))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  nil
-  "Git"
-  'dired-mode
-  '(global-auto-revert-mode all-the-icons-dired-mode)
-  379
-  '(nil nil)
-  t
-  '("/home/pagan/Git/")
-  '((tab-width . 1) (buffer-display-time 24873 28167 562009 244000))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  nil
-  "gulp_setup"
-  'dired-mode
-  '(global-auto-revert-mode all-the-icons-dired-mode)
-  350
-  '(nil nil)
-  t
-  '("/home/pagan/afterflow/packages/gulp_setup/")
-  '((tab-width . 1) (buffer-display-time 24873 27653 436734 460000))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/pagan/gulpfile.js"
-  "gulpfile.js"
-  'js-mode
-  '(global-auto-revert-mode format-all-mode)
-  64
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time 24873 28331 878487 408000) (buffer-file-coding-system . undecided-unix))
-  '((mark-ring nil)))
+  '((buffer-display-time 24873 29872 577199 367000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (314 778 849 314 227 329 383 325 314 364 238 457))))
 
